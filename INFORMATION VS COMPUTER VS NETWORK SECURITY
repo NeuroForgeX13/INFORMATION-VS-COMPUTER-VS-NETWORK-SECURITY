@@ -1,0 +1,20 @@
+1. Computer Security
+
+Definition: Protecting a computer device and what is stored on it (files, folders, OS, software).
+Concept line: It guards the individual machine against malware, viruses and unauthorized access.
+
+Example: An antivirus scans your laptop and blocks a virus hidden in a downloaded file. A login password and file permissions stop other people from opening your folders.
+
+2. Network Security
+
+Definition: Protecting the network and the data travelling through it.
+Concept line: It guards the connections between devices against attacks that come through the network.
+
+Example: A firewall blocks a DDoS attack that floods your server with fake traffic so real users can’t get in. Spam filters catch phishing emails. A phishing email pretends to be your bank and asks for your login.
+
+3. Information Security
+
+Definition: Protecting information itself (digital or paper) from unauthorized access, change or loss.
+Concept line: It is the widest term, built on the CIA triad: Confidentiality, Integrity, Availability.
+
+Example: Your WhatsApp password and chats must stay private (confidentiality). Nobody should be able to change your messages (integrity). You should be able to open your account when you need it (availability).
